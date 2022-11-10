@@ -1,5 +1,5 @@
 {
-  "name": "verman",
+  "name": "verman-cli",
   "version": "1.0.0",
   "description": "A CLI tool to manage versions of folders.",
   "main": "index.js",
