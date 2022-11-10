@@ -1,6 +1,10 @@
 # verman
 Verman - a CLI tool to manage versions of folders.
 
+# Installation
+```
+npm i -g verman-cli
+```
 # Usage
 ```
 Usage: verman [options] [command]
