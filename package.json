@@ -1,4 +1,14 @@
 {
+  "name": "verman",
+  "version": "1.0.0",
+  "description": "A CLI tool to manage versions of folders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["version_manager"],
+  "author": "diegab",
+  "license": "ISC",
   "dependencies": {
     "archiver": "^5.3.1",
     "commander": "^9.4.1",
