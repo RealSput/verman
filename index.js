@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { Command } = require('commander');
 const repl = require('./lib');
 const program = new Command();
